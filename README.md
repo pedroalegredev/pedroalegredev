@@ -7,7 +7,7 @@
 
 - 📫 Encuéntrame en **alegrediazpedroantonio@gmail.com**
 
-- ⚡ Aspecto curioso **Me encanta escribir y soy muy creativo.**
+- ⚡**Me encanta escribir y soy muy creativo.**
 
 <h3 align="left">Contáctame</h3>
 <p align="left">
