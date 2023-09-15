@@ -1,13 +1,13 @@
 <h1 align="center">Hola! 👋, Soy Pedro Alegre</h1>
 <h3 align="center">Desarrollador Frontend Junior y creativo, estudiando Bootcamp Frontend</h3>
 
-- 🔭 Estoy trabajando ahora en [Drunky Ducks](https://drunky-ducks-landing.netlify.app/)
+- 🔭 Estoy buscando trabajo.
 
-- 🌱 Estoy aprendiendo **Vue.js**
+- 🌱 Estoy aprendiendo **Laravel**
 
 - 📫 Encuéntrame en **alegrediazpedroantonio@gmail.com**
 
-- ⚡**Me encanta escribir y soy muy creativo.**
+- ⚡**Me encanta escribir y soy muy creativo. Siempre encuentro soluciones a todo.**
 
 <h3 align="left">Contáctame</h3>
 <p align="left">
