@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Pedro Alegre</h1>
-<h3 align="center">Desarrollador Frontend Junior y creativo, estudiando Bootcamp Frontend</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 - 🔭 Estoy buscando trabajo.
 
